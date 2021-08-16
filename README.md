@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MatejGroombridge
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning CSS and Javascript
+- 💞️ I’m looking to collaborate on nothing until I am actually kinda good.
+- 📫 How to reach me: mdpgbusiness@gmail.com
