@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MatejGroombridge
 - 👀 I’m interested in Web Development, Robotics and Machine Learning
-- 🌱 My website is matejgroombridge.com
+- 🌱 My website: matejgroombridge.com
 - 📫 How to reach me: matejdpg@gmail.com
