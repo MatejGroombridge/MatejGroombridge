@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MatejGroombridge
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Svelte
-- 💞️ I’m looking to collaborate on Web Development and Python related projects
-- 📫 How to reach me: mdpgbusiness@gmail.com
+- 👀 I’m interested in Web Development, Robotics and Machine Learning
+- 🌱 My website is matejgroombridge.com
+- 📫 How to reach me: matejdpg@gmail.com
