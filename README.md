@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @MatejGroombridge
-- 👀 I’m interested in Web Development, Virtual Reality and AI
-- 🌱 My website: matejgroombridge.com
-- 📫 How to reach me: matejdpg@gmail.com
+[matejgroombridge.com](https://www.matejgroombridge.com/)
