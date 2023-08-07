@@ -1,2 +1,2 @@
 # Welcome!
-Here's my site: [matejgroombridge.com](https://www.matejgroombridge.com/)
+Check out my site: [matejgroombridge.com](https://www.matejgroombridge.com/)
